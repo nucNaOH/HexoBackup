@@ -1,6 +1,7 @@
 ---
 title: 用Hexo在GitHub上搭建博客
 date: 2016-07-14 12:08:54
+categories: [小研究]
 tags: Hexo, GitHub
 ---
 最近学习了使用hexo在GitHub上搭建博客，特此记录。
