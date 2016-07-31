@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "js, php"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -144,10 +144,11 @@ wechatpay: http://oa6lwc3gp.bkt.clouddn.com/erweima.png
 # alipay: /path/to/alipay-reward-image
 
 # 友情链接itle
-links_title: Links
+links_title: 友情链接
 links:
-  MacTalk: http://macshuo.com/
-  Title: http://example.com/
+  #http://www.ixirong.com/404.html
+  404: http://nucnaoh.github.io/404.html
+  二哥: http://d4rkd0g.github.io
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
@@ -212,7 +213,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # Automatically scroll page to section which is under <!-- more --> mark.
