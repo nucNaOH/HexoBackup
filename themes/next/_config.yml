@@ -147,8 +147,8 @@ wechatpay: http://oa6lwc3gp.bkt.clouddn.com/erweima.png
 links_title: 友情链接
 links:
   #http://www.ixirong.com/404.html
-  404: http://nucnaoh.github.io/404.html
   二哥: http://d4rkd0g.github.io
+  公益404: http://nucnaoh.github.io/404.html
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
